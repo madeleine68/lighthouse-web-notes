@@ -6,4 +6,4 @@ This repository contains all of the notes taken by [Madeleine](https://github.co
 
 ## Table of Contents
  * [week 1](/week_1)
-   * [Day 1](/week_1/Day_1)
+   * [day 1](/week_1/day_1)
